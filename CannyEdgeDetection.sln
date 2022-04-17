@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CannyEdgeDetection", "CannyEdgeDetection\CannyEdgeDetection.csproj", "{0271C007-4660-4BDB-AE20-EFA13F2A3C5A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CannySetup", "CannySetup\CannySetup.vdproj", "{02C08207-87A6-4845-95F9-3637CE2B7DDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0271C007-4660-4BDB-AE20-EFA13F2A3C5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0271C007-4660-4BDB-AE20-EFA13F2A3C5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0271C007-4660-4BDB-AE20-EFA13F2A3C5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0271C007-4660-4BDB-AE20-EFA13F2A3C5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02C08207-87A6-4845-95F9-3637CE2B7DDF}.Debug|Any CPU.ActiveCfg = Debug
+		{02C08207-87A6-4845-95F9-3637CE2B7DDF}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C51B7B1-EFA9-4ADF-B9F7-C3DD0B73C2CD}
+	EndGlobalSection
+EndGlobal
